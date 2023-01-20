@@ -1,4 +1,4 @@
-# acasi-shop
+# apaci-shop
 
 Online store wwith Laravel 7 Vue/MySQL. Built on Aimous open source Laravel framework.
 
